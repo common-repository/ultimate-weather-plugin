@@ -1,0 +1,57 @@
+html, body 
+{
+padding: 0;
+border: 0px none;
+font-size: 12px;
+font-family: Verdana;
+}
+
+table
+{
+font-size: 12px;
+font-family: Verdana;
+}
+
+/* Input */
+input, select, checkbox
+{
+margin: 5 5 5 0;
+padding: 2px; 
+
+border: 1px solid #999999; 
+border-top-color: #CCCCCC; 
+border-left-color: #CCCCCC; 
+
+color: #333333; 
+
+font-size: 13px;
+-moz-border-radius: 3px;
+}
+
+#weather_search {
+	border-bottom:1px solid #000000;
+	}
+
+#weather_title {
+	margin-right: 5px;
+	border-bottom:1px dashed #000000;
+	}
+#weather table {
+	margin-right: 5px;
+	}
+
+#weather_title h1 {
+	font-size: 16px;
+	padding:0;
+	margin:0;
+}
+
+#credit {
+	font-size: 8pt;
+	}
+#weather table{
+	font-size:10px;
+	}
+tr #weather_forecast {
+	border-bottom: 1px solid #000000;
+	}
